@@ -86,6 +86,7 @@ print(f'파이는 {pi:10.3f}입니다.')
         - 상속, 다중상속
 
 2. 파이썬 응용
-    - 주소록 프로그램 만들기
-
+    - 주소록 프로그램 만들기 [소스](https://github.com/kimjihyeon-angela/StudyPython2023/blob/main/project/address_app.py)
+    
+![실행화면](https://raw.githubusercontent.com/kimjihyeon-angela/StudyPython2023/main/images/address_app.png)
 실행화면
